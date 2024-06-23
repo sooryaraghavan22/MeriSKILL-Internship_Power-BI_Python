@@ -1,5 +1,7 @@
-**Sales Data Analysis** 
-PURPOSE: 
+# Sales Data Analysis 
+
+**PURPOSE: **
+
 Analyse sales data to identify trends, top-selling products, and revenue metrics for business 
 decision-making. 
 DESCRIPTION: 
