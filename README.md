@@ -2,7 +2,7 @@
 
  **PURPOSE:-**
  
-Analyse sales data to identify trends, top-selling products, and revenue metrics for business 
+Analyse electrical products sales data to identify trends, top-selling products, and revenue metrics for business 
 decision-making. 
 
 **DESCRIPTION:** 
