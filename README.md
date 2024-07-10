@@ -53,5 +53,6 @@ weekends
 
 
 **Sales Dashboard**
+
 <img width="716" alt="Sales Dashboard" src="https://github.com/sooryaraghavan22/MeriSKILL-Internship_Power-BI_Python/assets/113838761/e14f1cb9-728f-4a83-ae3c-9674e2429f3e">
 
