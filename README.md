@@ -1,4 +1,4 @@
-# Sales Data Analysis 
+# Sales Data Analysis using Power BI
 
  **PURPOSE:-**
  
@@ -49,4 +49,9 @@ $8m however, the iPhone sold the most with about 6800 sold.
 4. Sales Trends: It is observed that within the year in consideration, sales peaked in 
 December with a total of $4.61m followed by October with $3.74m and April with 
 $3.39m, 72% of the generated revenue was during the week as compared to the 
-weekends 
+weekends
+
+
+**Sales Dashboard**
+<img width="716" alt="Sales Dashboard" src="https://github.com/sooryaraghavan22/MeriSKILL-Internship_Power-BI_Python/assets/113838761/e14f1cb9-728f-4a83-ae3c-9674e2429f3e">
+
